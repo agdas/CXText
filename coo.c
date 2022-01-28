@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(int argc, char **argv) {
 	int counter=0; /* counter*/
-	/* Print Hello World multiple times */
+	/* Print Hello Universe multiple times */
 	for (counter=1; counter<20; counter++) {
 		fprintf(stdout, "Hello Universe!\n");
 	}
