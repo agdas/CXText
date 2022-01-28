@@ -2,7 +2,7 @@
 int main(int argc, char **argv) {
 	int counter=0; /* counter*/
 	/* Print Hello World multiple times */
-	for (i=1; i<100; i++) {
+	for (counter=1; counter<100; counter++) {
 		fprintf(stdout, "Hello World!\n");
 	}
 	return 0;
